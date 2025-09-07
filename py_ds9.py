@@ -7,6 +7,19 @@ from astropy.coordinates import SkyCoord
 from astropy import units as u
 from PIL import Image
 
+
+"""
+WRITTEN DURING MY MASTER'S THESIS AT THE EUROPEAN SOUTHERN OBSERVATORY (ESO), GARCHING &
+LUDWIG MAXIMILIANS UNIVERSITY, MUNICH.
+
+CONTACT @ AKASH GUPTA, AKASHGUPTA21097@GMAIL.COM
+
+"""
+
+
+
+
+
 # Read coordinates from CSV file
 aprg = pd.read_csv('C:/Users/akash/Downloads/APRG_All-part1/coords.csv')
 
